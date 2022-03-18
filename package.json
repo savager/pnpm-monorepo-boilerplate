@@ -10,6 +10,9 @@
 		"packages/*"
 	],
 	"scripts": {
+		"clean": "rimraf \"**/node_modules\" \"**/pnpm-error.log\" \"**/.DS_Store\"",
+		"fresh": "pnpm clean && pnpm i",
+		"nuke": "rimraf \"**/pnpm-lock.yaml\" && pnpm fresh",
 		"build": "pnpm run build --parallel",
 		"dev": "pnpm run dev --parallel",
 		"lint": "pnpm run lint --parallel",
@@ -28,6 +31,7 @@
 		"husky": "^7.0.0",
 		"prettier": "^2.3.2",
 		"pretty-quick": "^3.1.3",
+		"rimraf": "^3.0.2",
 		"standard-version": "^9.3.2",
 		"typescript": "^4.5.3"
 	},
