@@ -15,7 +15,12 @@ build
 
 # misc
 .DS_Store
+Thumbs.db
+.env
 *.pem
+/tmp
+/out-tsc
+*.tsbuildinfo
 
 # debug
 npm-debug.log*
@@ -28,3 +33,20 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.husky
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

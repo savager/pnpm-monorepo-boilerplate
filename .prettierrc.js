@@ -1,0 +1,30 @@
+module.exports = {
+	printWidth: 120,
+	tabWidth: 1,
+	useTabs: true,
+	semi: true,
+	singleQuote: true,
+	quoteProps: 'as-needed',
+	jsxSingleQuote: false,
+	trailingComma: 'all',
+	bracketSpacing: true,
+	bracketSameLine: false,
+	arrowParens: 'always',
+	rangeStart: 0,
+	rangeEnd: Infinity,
+	requirePragma: false,
+	insertPragma: false,
+	proseWrap: 'preserve',
+	htmlWhitespaceSensitivity: 'css',
+	endOfLine: 'lf',
+	embeddedLanguageFormatting: 'auto',
+	overrides: [
+		{
+			files: '*.yml',
+			options: {
+				useTabs: true,
+				tabWidth: 1,
+			},
+		},
+	],
+};

@@ -1,0 +1,40 @@
+# All node_modules directories
+node_modules
+**/node_modules
+
+# All secrets
+**/.env.local
+**/.env.*.local
+
+# By default all git files
+.git
+.gitignore
+.gitattributes
+.github
+
+# Used when building with nextjs (next-eslint)
+!.eslintrc.js
+!.prettierrc.js
+
+# npm
+!.npmrc
+
+# Docker related
+.dockerignore
+Dockerfile
+docker-compose.*.yml
+docker-compose.yml
+docker
+
+# Log files
+logs
+*.log
+
+# Temp files
+tmp
+*.tmp
+
+# IDE related
+
+.idea
+.vscode
