@@ -1,6 +1,6 @@
 {
 	"name": "pnpm-monorepo-boilerplate",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Basic PNPM Typescript Monorepo. Basically Turborepo minus caching with opinionated additions.",
 	"author": "Russ Savage savage.russel@gmail.com",
 	"private": true,
