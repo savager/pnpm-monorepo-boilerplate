@@ -1,4 +1,5 @@
 # PNPM Workspaces Based Typescript Monorepo Boilerplate.
+
 ### Motivation
 
 This is my personal monorepo setup. Base taken from turborepo but without turborepo. Many others used yarn, lerna, or nx but I strongly prefer pnpm. I tried NX and got frustrated with the level of domain specific knowledge, inconsistencies, amount of boilerplate, and bugs.
@@ -23,6 +24,7 @@ This works while being more minimal, and provides fast builds, linting and sane 
 - config (eslint)
 - tsconfig
 - shared UI components
+
 ### Usage
 
 1. Delete the packages you do not want to use.
