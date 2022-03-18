@@ -1,0 +1,27 @@
+{
+  "name": "pnpm-monorepo-boilerplate",
+  "version": "0.0.0",
+  "description": "Basic PNPM Typescript Monorepo. Basically Turborepo minus caching with opinionated additions.",
+  "author": "Russ Savage savage.russel@gmail.com",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "pnpm run build --parallel",
+    "dev": "pnpm run dev --parallel",
+    "lint": "pnpm run lint --parallel",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.3"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "packageManager": "pnpm@6.32.3"
+}

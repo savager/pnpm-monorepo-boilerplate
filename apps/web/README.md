@@ -1,0 +1,1 @@
+## Basic Nextjs 12.1 Web App
