@@ -1,38 +1,39 @@
 {
-  "name": "pnpm-monorepo-boilerplate",
-  "version": "0.0.0",
-  "description": "Basic PNPM Typescript Monorepo. Basically Turborepo minus caching with opinionated additions.",
-  "author": "Russ Savage savage.russel@gmail.com",
-  "private": true,
-  "license": "MIT",
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
-  "scripts": {
-    "build": "pnpm run build --parallel",
-    "dev": "pnpm run dev --parallel",
-    "lint": "pnpm run lint --parallel",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
-  },
-  "husky": {
+	"name": "pnpm-monorepo-boilerplate",
+	"version": "0.0.1",
+	"description": "Basic PNPM Typescript Monorepo. Basically Turborepo minus caching with opinionated additions.",
+	"author": "Russ Savage savage.russel@gmail.com",
+	"private": true,
+	"license": "MIT",
+	"workspaces": [
+		"apps/*",
+		"packages/*"
+	],
+	"scripts": {
+		"build": "pnpm run build --parallel",
+		"dev": "pnpm run dev --parallel",
+		"lint": "pnpm run lint --parallel",
+		"format": "prettier --write \"**/*.{ts,tsx,md}\"",
+		"release": "pnpm standard-version"
+	},
+	"husky": {
 		"hooks": {
 			"pre-commit": "pnpm pretty-quick --staged "
 		}
 	},
-  "devDependencies": {
-    "@commitlint/cli": "^16.2.1",
+	"devDependencies": {
+		"@commitlint/cli": "^16.2.1",
 		"@commitlint/config-conventional": "^16.2.1",
-    "eslint": "7.32.0",
-    "husky": "^7.0.0",
+		"eslint": "7.32.0",
+		"husky": "^7.0.0",
 		"prettier": "^2.3.2",
 		"pretty-quick": "^3.1.3",
 		"standard-version": "^9.3.2",
-    "typescript": "^4.5.3"
-  },
-  "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=14.0.0"
-  },
-  "packageManager": "pnpm@6.32.3"
+		"typescript": "^4.5.3"
+	},
+	"engines": {
+		"npm": ">=7.0.0",
+		"node": ">=14.0.0"
+	},
+	"packageManager": "pnpm@6.32.3"
 }
