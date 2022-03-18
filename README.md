@@ -18,6 +18,7 @@ This works while being more minimal, and provides fast builds, linting and sane 
 
 - Docs Web App
 - Example Nextjs 12.1 Web App
+- Example NestJs App
 
 # Packages
 
