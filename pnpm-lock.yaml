@@ -131,6 +131,7 @@ importers:
    tsconfig: workspace:*
    typescript: ^4.5.3
    ui: workspace:*
+   utils: workspace:*
   dependencies:
    next: 12.1.0_fbf64ceed39fcaf258f74679fe7c79ca
    react: 17.0.2
@@ -145,6 +146,7 @@ importers:
    next-transpile-modules: 9.0.0
    tsconfig: link:../../packages/tsconfig
    typescript: 4.6.2
+   utils: link:../../packages/utils
 
  packages/config:
   specifiers:
@@ -180,6 +182,18 @@ importers:
    '@types/react': 17.0.40
    '@types/react-dom': 17.0.13
    config: link:../config
+   tsconfig: link:../tsconfig
+   typescript: 4.6.2
+
+ packages/utils:
+  specifiers:
+   config: workspace:*
+   rimraf: ~3.0.2
+   tsconfig: workspace:*
+   typescript: ~4.6.2
+  devDependencies:
+   config: link:../config
+   rimraf: 3.0.2
    tsconfig: link:../tsconfig
    typescript: 4.6.2
 

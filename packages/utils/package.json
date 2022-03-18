@@ -1,0 +1,21 @@
+{
+	"name": "utils",
+	"version": "0.0.0",
+	"main": "dist/index",
+	"types": "dist/index",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "pnpm run clean && pnpm run compile",
+		"clean": "rimraf -rf ./dist",
+		"compile": "tsc",
+		"prepublishOnly": "pnpm run build"
+	},
+	"devDependencies": {
+		"config": "workspace:*",
+		"rimraf": "~3.0.2",
+		"tsconfig": "workspace:*",
+		"typescript": "~4.6.2"
+	}
+}

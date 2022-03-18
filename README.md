@@ -25,6 +25,7 @@ This works while being more minimal, and provides fast builds, linting and sane 
 - config (eslint)
 - tsconfig
 - shared UI components
+- shared Utils
 
 ### Usage
 
