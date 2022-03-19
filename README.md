@@ -2,9 +2,9 @@
 
 ### Motivation
 
-This is my personal monorepo setup. Base taken from turborepo but without turborepo. Many others used yarn, lerna, or nx but I strongly prefer pnpm. I tried NX and got frustrated with the level of domain specific knowledge, inconsistencies, amount of boilerplate, and bugs.
+This is my personal monorepo setup with build caching.
 
-This works while being more minimal, and provides fast builds, linting and sane standards. Scaffolding should be well documented, simple and transparent.
+This works while being minimal, and provides fast builds, linting and sane standards.
 
 ### Repo features
 
@@ -13,12 +13,13 @@ This works while being more minimal, and provides fast builds, linting and sane 
 - standard version
 - commitlint
 - .prettier and eslint config packages.
+- build caching with backfill
 
 ## Apps
 
-- Docs Web App
-- Example Nextjs 12.1 Web App
-- Example NestJs App
+- docs Web App
+- example Nextjs 12.1 Web App
+- example NestJs App
 
 # Packages
 
