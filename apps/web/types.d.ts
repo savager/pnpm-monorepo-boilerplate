@@ -5,13 +5,12 @@ declare module '*.svg' {
 }
 
 declare module '*.module.css' {
-	const classes: { [key: string]: string };
+	const classes: { [className: string]: string };
 	export default classes;
 }
-
 declare module '*.module.scss' {
-	const classes: { [key: string]: string };
-	export default classes;
+	const content: { [className: string]: string };
+	export default content;
 }
 
 export {};
