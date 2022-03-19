@@ -10,7 +10,7 @@
 		"packages/*"
 	],
 	"scripts": {
-		"clean": "rimraf \"**/node_modules\" \"**/pnpm-error.log\" \"**/.DS_Store\"",
+		"clean": "rimraf \"node_modules\" \"**/node_modules\"  \"**/.next\"  \"**/dist\" \"**/pnpm-error.log\" \"**/.DS_Store\"",
 		"fresh": "pnpm clean && pnpm i",
 		"nuke": "rimraf \"**/pnpm-lock.yaml\" && pnpm fresh",
 		"build": "pnpm run build --parallel",
@@ -27,6 +27,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^16.2.1",
 		"@commitlint/config-conventional": "^16.2.1",
+		"backfill": "^6.1.13",
 		"eslint": "7.32.0",
 		"husky": "^7.0.0",
 		"prettier": "^2.3.2",
