@@ -17,16 +17,19 @@ This works while being minimal, and provides fast builds, linting and sane stand
 
 ## Apps
 
-- docs Web App
-- example Nextjs 12.1 Web App
-- example NestJs App
+All apps show examples of using shared utils, config, tsconfig, and components from the UI library.
+
+- docs: Nextjs 12.1 app
+- web: example Nextjs 12.1 app
+- nestjs: example NestJs backend
+- storybook: example Storybook app
 
 # Packages
 
-- config (eslint)
-- tsconfig
-- shared UI components
-- shared Utils
+- config: eslint and other repo config
+- tsconfig: typescript configurations
+- ui: shared UI components
+- utils: shared functional utils
 
 ### Usage
 
