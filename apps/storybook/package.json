@@ -1,0 +1,46 @@
+{
+	"name": "storybook",
+	"version": "6.5.0-alpha.49",
+	"private": true,
+	"scripts": {
+		"build-storybook": "backfill -- cross-env build-storybook",
+		"debug": "cross-env NODE_OPTIONS=--inspect-brk start-storybook -p 9011",
+		"dev": "cross-env start-storybook -p 9011 --no-manager-cache"
+	},
+	"dependencies": {
+		"formik": "^2.2.9",
+		"prop-types": "15.7.2",
+		"react": "16.14.0",
+		"react-dom": "16.14.0",
+		"ui": "workspace:*"
+	},
+	"devDependencies": {
+		"@babel/preset-env": "^7.12.11",
+		"@babel/preset-react": "^7.12.10",
+		"@babel/preset-typescript": "^7.12.7",
+		"@react-theming/storybook-addon": "^1.1.3",
+		"@storybook/addon-essentials": "6.5.0-alpha.49",
+		"@storybook/addon-links": "6.4.0",
+		"@storybook/addon-storyshots": "6.5.0-alpha.49",
+		"@storybook/addon-storysource": "6.5.0-alpha.49",
+		"@storybook/cli": "6.5.0-alpha.49",
+		"@storybook/components": "6.5.0-alpha.49",
+		"@storybook/mdx2-csf": "^0.0.1-canary.1.838a6ca.0",
+		"@storybook/react": "6.5.0-alpha.49",
+		"@storybook/theming": "6.5.0-alpha.49",
+		"@testing-library/dom": "^7.31.2",
+		"@testing-library/user-event": "^13.1.9",
+		"@types/babel__preset-env": "^7",
+		"@types/react": "^16.14.23",
+		"@types/react-dom": "^16.9.14",
+		"cross-env": "^7.0.3",
+		"css-loader": "5.2.7",
+		"sass": "^1.43.4",
+		"sass-loader": "10.2.0",
+		"style-loader": "2.0.0",
+		"tsconfig": "workspace:*",
+		"typescript": "^3.9.7",
+		"typescript-plugin-css-modules": "^3.4.0",
+		"webpack": "4.46.0"
+	}
+}

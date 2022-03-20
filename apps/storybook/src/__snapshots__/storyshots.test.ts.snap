@@ -1,0 +1,3489 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Demo/AccountForm Standard 1`] = `
+.emotion-15 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-13 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-13[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-12 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-10 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-10:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-11 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-11:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-15"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-14"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-13"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-12"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-10"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-11"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Standard Email Failed 1`] = `
+.emotion-15 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-13 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-13[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-12 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-10 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-10:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-11 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-11:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-15"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-14"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-13"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-12"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-10"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-11"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Standard Email Filled 1`] = `
+.emotion-15 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-13 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-13[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-12 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-10 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-10:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-11 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-11:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-15"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-14"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-13"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-12"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-10"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-11"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Standard Fail Hover 1`] = `
+.emotion-15 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-13 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-13[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-12 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-10 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-10:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-11 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-11:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-15"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-14"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-13"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-12"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-10"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-11"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Standard Password Failed 1`] = `
+.emotion-15 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-13 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-13[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-12 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-10 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-10:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-10[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-11 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-11:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-11[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-15"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-14"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-13"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-12"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-10"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-11"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Verification 1`] = `
+.emotion-18 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-16 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-16[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-15 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-13 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-13:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-14 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-14:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-18"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-17"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-16"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="verifiedPassword"
+        >
+          Verify Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password2"
+          disabled={false}
+          name="verifiedPassword"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-15"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-13"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-14"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Verification Passsword 1 1`] = `
+.emotion-18 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-16 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-16[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-15 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-13 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-13:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-14 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-14:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-18"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-17"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-16"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="verifiedPassword"
+        >
+          Verify Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password2"
+          disabled={false}
+          name="verifiedPassword"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-15"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-13"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-14"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Verification Password Mismatch 1`] = `
+.emotion-18 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-16 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-16[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-15 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-13 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-13:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-14 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-14:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-18"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-17"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-16"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="verifiedPassword"
+        >
+          Verify Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password2"
+          disabled={false}
+          name="verifiedPassword"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-15"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-13"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-14"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Demo/AccountForm Verification Success 1`] = `
+.emotion-18 {
+  font-family: "Nunito Sans",-apple-system,".SFNSText-Regular","San Francisco",BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 450px;
+  padding: 32px;
+  background-color: #FFFFFF;
+  border-radius: 7px;
+}
+
+.emotion-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.emotion-0 {
+  height: 40px;
+  z-index: 10;
+  margin-left: 32px;
+}
+
+.emotion-1 {
+  height: 40px;
+  z-index: 1;
+  left: -32px;
+  position: relative;
+}
+
+.emotion-3 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.emotion-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 350px;
+  min-height: 189px;
+  margin-top: 8px;
+}
+
+.emotion-16 {
+  width: 100%;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+}
+
+.emotion-16[aria-disabled="true"] {
+  opacity: 0.6;
+}
+
+.emotion-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: stretch;
+  -webkit-justify-content: stretch;
+  -ms-flex-pack: stretch;
+  justify-content: stretch;
+  margin-bottom: 10px;
+}
+
+.emotion-4 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.emotion-5 {
+  font-size: 14px;
+  color: #333333;
+  padding: 10px 15px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: 0 none;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:focus {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5:active {
+  box-shadow: rgb(30 167 253) 0px 0px 0px 1px inset;
+}
+
+.emotion-5[aria-invalid="true"] {
+  box-shadow: rgb(255 68 0) 0px 0px 0px 1px inset;
+}
+
+.emotion-15 {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.emotion-13 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-right: 8px;
+  background-color: #1EA7FD;
+  color: #FFFFFF;
+  opacity: 0.6;
+  box-shadow: rgb(30 167 253 / 10%) 0 0 0 1px inset;
+}
+
+.emotion-13:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-13[aria-disabled="true"] {
+  cursor: default;
+}
+
+.emotion-14 {
+  background-color: transparent;
+  border: 0 none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-flex-basis: 50%;
+  -ms-flex-preferred-size: 50%;
+  flex-basis: 50%;
+  cursor: pointer;
+  padding: 11px 16px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  margin-left: 8px;
+  box-shadow: rgb(30 167 253) 0 0 0 1px inset;
+  color: #1EA7FD;
+}
+
+.emotion-14:focus {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.emotion-14[aria-disabled="true"] {
+  cursor: default;
+}
+
+<section
+  className="emotion-18"
+>
+  <div
+    className="emotion-2"
+  >
+    <svg
+      aria-label="Storybook Logo"
+      className="emotion-0"
+      role="img"
+      viewBox="0 0 64 64"
+    >
+      <title>
+        Storybook icon
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+        id="Artboard"
+        stroke="none"
+        strokeWidth="1"
+      >
+        <path
+          d="M8.04798541,58.7875918 L6.07908839,6.32540407 C6.01406344,4.5927838 7.34257463,3.12440831 9.07303814,3.01625434 L53.6958037,0.227331489 C55.457209,0.117243658 56.974354,1.45590096 57.0844418,3.21730626 C57.0885895,3.28366922 57.0906648,3.35014546 57.0906648,3.41663791 L57.0906648,60.5834697 C57.0906648,62.3483119 55.6599776,63.7789992 53.8951354,63.7789992 C53.847325,63.7789992 53.7995207,63.7779262 53.7517585,63.775781 L11.0978899,61.8600599 C9.43669044,61.7854501 8.11034889,60.4492961 8.04798541,58.7875918 Z"
+          fill="#FF4785"
+          fillRule="nonzero"
+          id="path-1"
+        />
+        <path
+          d="M35.9095005,24.1768792 C35.9095005,25.420127 44.2838488,24.8242707 45.4080313,23.9509748 C45.4080313,15.4847538 40.8652557,11.0358878 32.5466666,11.0358878 C24.2280775,11.0358878 19.5673077,15.553972 19.5673077,22.3311017 C19.5673077,34.1346028 35.4965208,34.3605071 35.4965208,40.7987804 C35.4965208,42.606015 34.6115646,43.6790606 32.6646607,43.6790606 C30.127786,43.6790606 29.1248356,42.3834613 29.2428298,37.9783269 C29.2428298,37.0226907 19.5673077,36.7247626 19.2723223,37.9783269 C18.5211693,48.6535354 25.1720308,51.7326752 32.7826549,51.7326752 C40.1572906,51.7326752 45.939005,47.8018145 45.939005,40.6858282 C45.939005,28.035186 29.7738035,28.3740425 29.7738035,22.1051974 C29.7738035,19.5637737 31.6617103,19.2249173 32.7826549,19.2249173 C33.9625966,19.2249173 36.0864917,19.4328883 35.9095005,24.1768792 Z"
+          fill="#FFFFFF"
+          fillRule="nonzero"
+          id="path9_fill-path"
+        />
+        <path
+          d="M44.0461638,0.830433986 L50.1874092,0.446606143 L50.443532,7.7810017 C50.4527198,8.04410717 50.2468789,8.26484453 49.9837734,8.27403237 C49.871115,8.27796649 49.7607078,8.24184808 49.6721567,8.17209069 L47.3089847,6.3104681 L44.5110468,8.43287463 C44.3012992,8.591981 44.0022839,8.55092814 43.8431776,8.34118051 C43.7762017,8.25288717 43.742082,8.14401677 43.7466857,8.03329059 L44.0461638,0.830433986 Z"
+          fill="#FFFFFF"
+          id="Path"
+        />
+      </g>
+    </svg>
+    <svg
+      aria-label="Storybook"
+      className="emotion-1"
+      role="img"
+      viewBox="0 0 200 40"
+    >
+      <title>
+        Storybook
+      </title>
+      <g
+        fill="none"
+        fillRule="evenodd"
+      >
+        <path
+          d="M53.3 31.7c-1.7 0-3.4-.3-5-.7-1.5-.5-2.8-1.1-3.9-2l1.6-3.5c2.2 1.5 4.6 2.3 7.3 2.3 1.5 0 2.5-.2 3.3-.7.7-.5 1.1-1 1.1-1.9 0-.7-.3-1.3-1-1.7s-2-.8-3.7-1.2c-2-.4-3.6-.9-4.8-1.5-1.1-.5-2-1.2-2.6-2-.5-1-.8-2-.8-3.2 0-1.4.4-2.6 1.2-3.6.7-1.1 1.8-2 3.2-2.6 1.3-.6 2.9-.9 4.7-.9 1.6 0 3.1.3 4.6.7 1.5.5 2.7 1.1 3.5 2l-1.6 3.5c-2-1.5-4.2-2.3-6.5-2.3-1.3 0-2.3.2-3 .8-.8.5-1.2 1.1-1.2 2 0 .5.2 1 .5 1.3.2.3.7.6 1.4.9l2.9.8c2.9.6 5 1.4 6.2 2.4a5 5 0 0 1 2 4.2 6 6 0 0 1-2.5 5c-1.7 1.2-4 1.9-7 1.9zm21-3.6l1.4-.1-.2 3.5-1.9.1c-2.4 0-4.1-.5-5.2-1.5-1.1-1-1.6-2.7-1.6-4.8v-6h-3v-3.6h3V11h4.8v4.6h4v3.6h-4v6c0 1.8.9 2.8 2.6 2.8zm11.1 3.5c-1.6 0-3-.3-4.3-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.3-1 1.7 0 3.2.3 4.4 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.4 1zm0-3.6c2.4 0 3.6-1.6 3.6-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.6-1c-2.3 0-3.5 1.4-3.5 4.4 0 3 1.2 4.6 3.5 4.6zm21.7-8.8l-2.7.3c-1.3.2-2.3.5-2.8 1.2-.6.6-.9 1.4-.9 2.5v8.2H96V15.7h4.6v2.6c.8-1.8 2.5-2.8 5-3h1.3l.3 4zm14-3.5h4.8L116.4 37h-4.9l3-6.6-6.4-14.8h5l4 10 4-10zm16-.4c1.4 0 2.6.3 3.6 1 1 .6 1.9 1.6 2.5 2.8.6 1.2.9 2.7.9 4.3 0 1.6-.3 3-1 4.3a6.9 6.9 0 0 1-2.4 2.9c-1 .7-2.2 1-3.6 1-1 0-2-.2-3-.7-.8-.4-1.5-1-2-1.9v2.4h-4.7V8.8h4.8v9c.5-.8 1.2-1.4 2-1.9.9-.4 1.8-.6 3-.6zM135.7 28c1.1 0 2-.4 2.6-1.2.6-.8 1-2 1-3.4 0-1.5-.4-2.5-1-3.3s-1.5-1.1-2.6-1.1-2 .3-2.6 1.1c-.6.8-1 2-1 3.3 0 1.5.4 2.6 1 3.4.6.8 1.5 1.2 2.6 1.2zm18.9 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.3 1a7 7 0 0 1 3 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm18 3.6c-1.7 0-3.2-.3-4.4-1a7 7 0 0 1-3-2.8c-.6-1.3-1-2.7-1-4.4 0-1.6.4-3 1-4.3a7 7 0 0 1 3-2.8c1.2-.7 2.7-1 4.4-1 1.6 0 3 .3 4.4 1a7 7 0 0 1 2.9 2.8c.6 1.2 1 2.7 1 4.3 0 1.7-.4 3.1-1 4.4a7 7 0 0 1-3 2.8c-1.2.7-2.7 1-4.3 1zm0-3.6c2.3 0 3.5-1.6 3.5-4.6 0-1.5-.3-2.6-1-3.4a3.2 3.2 0 0 0-2.5-1c-2.4 0-3.6 1.4-3.6 4.4 0 3 1.2 4.6 3.6 4.6zm27.4 3.4h-6l-6-7v7h-4.8V8.8h4.9v13.6l5.8-6.7h5.7l-6.6 7.5 7 8.2z"
+          fill="currentColor"
+        />
+      </g>
+    </svg>
+  </div>
+  <p
+    className="emotion-3"
+  >
+    Create an account to join the Storybook community
+  </p>
+  <div
+    className="emotion-17"
+  >
+    <form
+      action="#"
+      aria-disabled="false"
+      className="emotion-16"
+      noValidate={true}
+      onReset={[Function]}
+      onSubmit={[Function]}
+    >
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="email"
+          disabled={false}
+          name="email"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password1"
+          disabled={false}
+          name="password"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-6"
+      >
+        <label
+          className="emotion-4"
+          htmlFor="verifiedPassword"
+        >
+          Verify Password
+        </label>
+        <input
+          aria-disabled="false"
+          aria-invalid="false"
+          aria-required="true"
+          className="emotion-5"
+          data-testid="password2"
+          disabled={false}
+          name="verifiedPassword"
+          onBlur={[Function]}
+          onChange={[Function]}
+          type="password"
+          value=""
+        />
+      </div>
+      <div
+        className="emotion-15"
+      >
+        <button
+          aria-disabled="true"
+          className="emotion-13"
+          data-testid="submit"
+          disabled={true}
+          type="submit"
+        >
+          Create Account
+        </button>
+        <button
+          aria-disabled="false"
+          className="emotion-14"
+          disabled={false}
+          type="reset"
+        >
+          Reset
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Docs/ButtonMdx Basic 1`] = `
+<button
+  type="button"
+>
+  Click me
+</button>
+`;
+
+exports[`Storyshots Docs/ButtonMdx Controls 1`] = `
+<button
+  type="button"
+>
+  Hello
+</button>
+`;
+
+exports[`Storyshots Examples / Button Basic 1`] = `
+<button
+  type="button"
+>
+  Click me
+</button>
+`;
+
+exports[`Storyshots Examples / Button CSF 2 Story With Play 1`] = `
+<button
+  type="button"
+>
+  Hello
+</button>
+`;
+
+exports[`Storyshots Examples / Button Process Env 1`] = `
+<button
+  type="button"
+>
+  Hello
+</button>
+`;
+
+exports[`Storyshots Examples / Button Story No Render 1`] = `
+<button
+  type="button"
+>
+  magic!
+</button>
+`;
+
+exports[`Storyshots Examples / Button Story Object 1`] = `"hahaha"`;
+
+exports[`Storyshots Examples / Button Story With Play 1`] = `
+<button
+  type="button"
+>
+  play
+</button>
+`;
+
+exports[`Storyshots Examples / Button With Args 1`] = `
+<button
+  type="button"
+>
+  With args
+</button>
+`;
+
+exports[`Storyshots Examples / Emoji Button Basic 1`] = `
+<button
+  type="button"
+>
+  ⚠️ 
+  Click me
+</button>
+`;
+
+exports[`Storyshots Examples / Emoji Button With Args 1`] = `
+<button
+  type="button"
+>
+  ⚠️ 
+  With args
+</button>
+`;

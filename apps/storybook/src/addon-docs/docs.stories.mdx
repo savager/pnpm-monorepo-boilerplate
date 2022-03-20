@@ -1,0 +1,12 @@
+import { Meta, Story } from '@storybook/addon-docs';
+import { Button } from 'ui';
+
+<Meta title="Docs/ButtonMdx" component={Button} />
+
+# Button MDX
+
+<Story name="Basic">
+	<Button label="Click me" />
+</Story>
+
+<Story name="Controls">{(args) => <Button {...args} />}</Story>
