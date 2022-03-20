@@ -20,6 +20,7 @@
 		"@types/react": "17.0.37",
 		"config": "workspace:*",
 		"eslint": "^8.10.0",
+		"next-compose-plugins": "^2.2.1",
 		"next-transpile-modules": "9.0.0",
 		"sass": "^1.49.9",
 		"tsconfig": "workspace:*",

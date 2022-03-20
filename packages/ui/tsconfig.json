@@ -1,5 +1,8 @@
 {
-  "extends": "tsconfig/react-library.json",
-  "include": ["."],
-  "exclude": ["dist", "build", "node_modules"]
+	"extends": "tsconfig/react-library.json",
+	"compilerOptions": {
+		"plugins": [{ "name": "typescript-plugin-css-modules" }]
+	},
+	"include": ["declarations.d.ts", "**/*.ts", "**/*.tsx"],
+	"exclude": ["dist", "build", "node_modules"]
 }
