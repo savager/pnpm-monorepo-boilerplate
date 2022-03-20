@@ -4,14 +4,17 @@ declare module '*.svg' {
 	export const content: any;
 }
 
+interface IClassNames {
+	[className: string]: string;
+}
+
 declare module '*.module.css' {
-	const classes: { [className: string]: string };
-	export default classes;
+	const classNames: IClassNames;
+	export = classNames;
 }
 
 declare module '*.module.scss' {
-	const content: { [className: string]: string };
-	export default content;
+	const classNames: IClassNames;
+	export = classNames;
 }
-
 export {};

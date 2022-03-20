@@ -7,7 +7,7 @@ export default function Web() {
 	return (
 		<div className={styles.example}>
 			<h1>Web</h1>
-			<Button />
+			<Button label="Click Me" />
 		</div>
 	);
 }
