@@ -13,8 +13,8 @@
 	},
 	"devDependencies": {
 		"config": "workspace:*",
-		"rimraf": "~3.0.2",
+		"rimraf": "~4.1.2",
 		"tsconfig": "workspace:*",
-		"typescript": "~4.6.2"
+		"typescript": "~4.9.5"
 	}
 }

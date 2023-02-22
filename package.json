@@ -13,9 +13,9 @@
 		"clean": "rimraf \"node_modules\" \"**/node_modules\"  \"**/.next\"  \"**/dist\" \"**/pnpm-error.log\" \"**/.DS_Store\"",
 		"fresh": "pnpm clean && pnpm i",
 		"nuke": "rimraf \"**/pnpm-lock.yaml\" && pnpm fresh",
-		"build": "pnpm run build --parallel",
-		"dev": "pnpm run dev --parallel",
-		"lint": "pnpm run lint --parallel",
+		"build": "pnpm --stream -r run build",
+		"dev": "pnpm --stream -r run dev",
+		"lint": "pnpm --stream -r run lint",
 		"format": "prettier --write \"**/*.{ts,tsx,md}\"",
 		"release": "pnpm standard-version"
 	},
